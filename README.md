@@ -5,7 +5,7 @@ Interested in full-stack development and building useful applications.
 
 ## About Me
 - 🎓 B.S. in Computer Science | Expected May 2029
-- 🌱 Currently learning Java, React, and backend development
+- 🌱 Currently learning Java,and backend development
 - 💼 Looking for software development internship opportunities
 
 ## Technical Skills
