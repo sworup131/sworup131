@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sworup 👋
 
-<!--
-**sworup131/sworup131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Louisiana at Monroe.
+Interested in full-stack development and building useful applications.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.S. in Computer Science | Expected May 2029
+- 🌱 Currently learning Java, React, and backend development
+- 💼 Looking for software development internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Java, Python, JavaScript, C++
+- Frontend: React, HTML, CSS, Tailwind CSS
+- Backend: Node.js, Express
+- Databases: MongoDB, MySQL
+- Tools: Git, GitHub, Postman
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/feed/foryou/)
+- [Portfolio](https://sworupsubedi.com.np/)
